@@ -1,0 +1,11 @@
+C:\Users\17687\source\repos\counter2\bin\Debug\counter2.exe.config
+C:\Users\17687\source\repos\counter2\bin\Debug\counter2.exe
+C:\Users\17687\source\repos\counter2\bin\Debug\counter2.pdb
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.csproj.AssemblyReference.cache
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.Form1.resources
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.Properties.Resources.resources
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.csproj.GenerateResource.cache
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.csproj.CoreCompileInputs.cache
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.exe
+C:\Users\17687\source\repos\counter2\obj\Debug\counter2.pdb
