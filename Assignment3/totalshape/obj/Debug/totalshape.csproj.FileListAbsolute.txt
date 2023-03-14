@@ -1,0 +1,8 @@
+C:\Users\17687\source\repos\Assignment3\totalshape\bin\Debug\totalshape.exe.config
+C:\Users\17687\source\repos\Assignment3\totalshape\bin\Debug\totalshape.exe
+C:\Users\17687\source\repos\Assignment3\totalshape\bin\Debug\totalshape.pdb
+C:\Users\17687\source\repos\Assignment3\totalshape\obj\Debug\totalshape.csproj.AssemblyReference.cache
+C:\Users\17687\source\repos\Assignment3\totalshape\obj\Debug\totalshape.csproj.SuggestedBindingRedirects.cache
+C:\Users\17687\source\repos\Assignment3\totalshape\obj\Debug\totalshape.csproj.CoreCompileInputs.cache
+C:\Users\17687\source\repos\Assignment3\totalshape\obj\Debug\totalshape.exe
+C:\Users\17687\source\repos\Assignment3\totalshape\obj\Debug\totalshape.pdb
