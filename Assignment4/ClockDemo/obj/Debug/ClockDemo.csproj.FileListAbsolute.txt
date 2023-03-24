@@ -1,0 +1,8 @@
+C:\Users\17687\source\repos\Assignment4\ClockDemo\bin\Debug\ClockDemo.exe.config
+C:\Users\17687\source\repos\Assignment4\ClockDemo\bin\Debug\ClockDemo.exe
+C:\Users\17687\source\repos\Assignment4\ClockDemo\bin\Debug\ClockDemo.pdb
+C:\Users\17687\source\repos\Assignment4\ClockDemo\obj\Debug\ClockDemo.csproj.AssemblyReference.cache
+C:\Users\17687\source\repos\Assignment4\ClockDemo\obj\Debug\ClockDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\17687\source\repos\Assignment4\ClockDemo\obj\Debug\ClockDemo.csproj.CoreCompileInputs.cache
+C:\Users\17687\source\repos\Assignment4\ClockDemo\obj\Debug\ClockDemo.exe
+C:\Users\17687\source\repos\Assignment4\ClockDemo\obj\Debug\ClockDemo.pdb

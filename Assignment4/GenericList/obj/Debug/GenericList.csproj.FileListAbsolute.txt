@@ -1,0 +1,8 @@
+C:\Users\17687\source\repos\Assignment4\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\17687\source\repos\Assignment4\GenericList\bin\Debug\GenericList.exe
+C:\Users\17687\source\repos\Assignment4\GenericList\bin\Debug\GenericList.pdb
+C:\Users\17687\source\repos\Assignment4\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+C:\Users\17687\source\repos\Assignment4\GenericList\obj\Debug\GenericList.csproj.SuggestedBindingRedirects.cache
+C:\Users\17687\source\repos\Assignment4\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\17687\source\repos\Assignment4\GenericList\obj\Debug\GenericList.exe
+C:\Users\17687\source\repos\Assignment4\GenericList\obj\Debug\GenericList.pdb
