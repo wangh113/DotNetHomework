@@ -1,0 +1,15 @@
+C:\Users\王华\source\repos\Assignment7\Crawler1\bin\Debug\net6.0\Crawler1.exe
+C:\Users\王华\source\repos\Assignment7\Crawler1\bin\Debug\net6.0\Crawler1.deps.json
+C:\Users\王华\source\repos\Assignment7\Crawler1\bin\Debug\net6.0\Crawler1.runtimeconfig.json
+C:\Users\王华\source\repos\Assignment7\Crawler1\bin\Debug\net6.0\Crawler1.dll
+C:\Users\王华\source\repos\Assignment7\Crawler1\bin\Debug\net6.0\Crawler1.pdb
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.csproj.AssemblyReference.cache
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.AssemblyInfoInputs.cache
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.AssemblyInfo.cs
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.csproj.CoreCompileInputs.cache
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.dll
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\refint\Crawler1.dll
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.pdb
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\Crawler1.genruntimeconfig.cache
+C:\Users\王华\source\repos\Assignment7\Crawler1\obj\Debug\net6.0\ref\Crawler1.dll
